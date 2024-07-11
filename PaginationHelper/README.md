@@ -8,7 +8,7 @@ The class is designed to take in an array of values and an integer indicating ho
 
 The following are some examples of how this class is used:
 
-```
+```python
 helper = PaginationHelper(['a','b','c','d','e','f'], 4)
 helper.page_count() # should == 2
 helper.item_count() # should == 6
