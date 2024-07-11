@@ -1,1 +1,1 @@
-This is a test for <kbd>inline code<kbd>
+This is a test for <kbd>inline code</kbd>
