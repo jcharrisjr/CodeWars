@@ -1,3 +1,7 @@
+### Twice Linear
+
+Visit:  https://www.codewars.com/kata/5672682212c8ecf83e000050
+
 Consider a sequence u where u is defined as follows:
 
 <li>
